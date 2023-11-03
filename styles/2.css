@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Karla';
+    src: url(../Comfortaa/Comfortaa-VariableFont_wght.ttf);
+}
+
+body {
+    font-family: 'Karla';
+}
+
+button {
+    padding: 10px;
+
+}
+
+.resultado {
+    text-align: center;
+    width: 180px;
+    margin: 0 auto;
+}
+
+.button {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 2px 1px black;
+    background-color: grey;
+    color: white;
+    text-transform: uppercase;
+}
+
+button#iniciar {
+    margin-bottom: 20px;
+}
